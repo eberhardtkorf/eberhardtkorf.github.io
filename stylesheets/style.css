@@ -68,11 +68,7 @@ align-items: center;
 flex-direction: column;
 }
 
-.markdown {
-display: flex;
-align-items: center;
-flex-direction: column;
-}
+
 
 .journal-list > li > time {
 margin-right: 25px;
