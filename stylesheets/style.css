@@ -68,11 +68,11 @@ align-items: center;
 flex-direction: column;
 }
 
-.post-list > li > time {
+.journal-list > li > time {
 margin-right: 25px;
 }
 
-.post-list, .quote-list, .contact {
+.journal-list, .contact {
 list-style-type: none;
 padding: 0px;
 }
