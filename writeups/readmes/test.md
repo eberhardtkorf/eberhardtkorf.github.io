@@ -1,5 +1,7 @@
 # WebDev Project 1, Scrappy
 
+![Optional Text](writeup_images/test.png)
+
 ### Overview
 
 This repository contains two main .py files, namely `scraper.py` and `scrappy.py`.
