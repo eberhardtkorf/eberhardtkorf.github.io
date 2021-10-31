@@ -1,4 +1,4 @@
-# WebDev Project 1, Scrappys
+# WebDev Project 1, Scrappy
 
 <p align="center">
   <img src="https://github.com/eberhardtkorf/eberhardtkorf.github.io/blob/main/pages/journal/entries/readmes/readme_images/test.png" />
