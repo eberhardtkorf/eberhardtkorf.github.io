@@ -23,9 +23,11 @@ Journal entries are written in a markdown, `.md`, format and then rendered to vi
 
 Images that are contained within journal entries are uploaded to GitHub as well in order to center them in the final rendered version. An example of this code can be seen below:
 
-`<p align="center">
+```
+<p align="center">
   <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/test.png" />
-</p>`
+</p>
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/test.png" />
