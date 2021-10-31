@@ -1,4 +1,4 @@
-# WebDev Project 1, Scrappy
+# WebDev Project 1, Scrappys
 
 ![Optional Text](readme_images/test.png)
 
