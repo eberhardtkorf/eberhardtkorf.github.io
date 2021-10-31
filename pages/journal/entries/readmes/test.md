@@ -1,7 +1,7 @@
 # WebDev Project 1, Scrappys
 
 <p align="center">
-  <img src="/readme_images/test.png" />
+  <img src="https://github.com/eberhardtkorf/eberhardtkorf.github.io/blob/main/pages/journal/entries/readmes/readme_images/test.png" />
 </p>
 
 ![Optional Text](readme_images/test.png)
