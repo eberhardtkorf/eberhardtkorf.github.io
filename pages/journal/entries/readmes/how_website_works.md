@@ -35,6 +35,6 @@ Images that are contained within journal entries are uploaded to GitHub as well 
 
 ### Future Work
 
-In order to make this website experience more sleep, a domain will have to be bought and configured to link to this website.
+In order to make this website experience more sleek, a domain will have to be bought and configured to link to this website.
 
 
