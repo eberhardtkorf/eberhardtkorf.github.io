@@ -31,4 +31,8 @@ Images that are contained within journal entries are uploaded to GitHub as well 
   <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/test.png" />
 </p>
 
+### Future Work
+
+In order to make this website experience more sleep, a domain will have to be bought and configured to link to this website.
+
 
