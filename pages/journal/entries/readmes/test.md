@@ -1,7 +1,7 @@
-# WebDev Project 1, Scrappy
+# WebDev Project 1, Scrappys
 
 <p align="center">
-  <img src="readme_images/test.png" />
+  <img src="/readme_images/test.png" />
 </p>
 
 ![Optional Text](readme_images/test.png)
