@@ -1,5 +1,9 @@
 # WebDev Project 1, Scrappy
 
+<p align="center">
+  <img src="readme_images/test.png" />
+</p>
+
 ![Optional Text](readme_images/test.png)
 
 ### Overview
