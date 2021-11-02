@@ -11,7 +11,7 @@ This website is hosted using GitHub Pages. The method only allows for static `.h
 Attempts have been made in order to make the viewing of the content as soft on the eye as possible. A few `.css` things that allow this are listed below:
 
 * Background color is a very subtle off white: #EEEEEE
-* Text colour is slighyly more grey than black: #444
+* Text colour is slightly more grey than black: #444
 * A line height of 1.6 is used
 * A font size of 18 is used with the Sans-serif family
 
