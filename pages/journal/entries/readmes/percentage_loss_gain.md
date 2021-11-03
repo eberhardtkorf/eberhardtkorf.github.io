@@ -52,6 +52,9 @@ Overall, we can see that the relationship between the drop of an investment and 
 | 80       	| 400             	|
 | 90       	| 900             	|
 
+### Remarks
+
+This might make you think that investing is against you from the start, but this is only one perspective. Anoither way to think about it is the fact that if you invest $100 you can only lose 100% of your investment, in this case $100. On the other hand, you can gain an infinite amount on this $100. The formula above is only to show that the relationship between a percentage loss and percentage gain needed is not linear.
 
 
 
