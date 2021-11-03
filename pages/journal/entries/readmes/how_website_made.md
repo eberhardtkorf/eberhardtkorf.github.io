@@ -42,6 +42,26 @@ The result:
   <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/image.png" />
 </p>
 
+#### Equations
+
+Equations are written in a LaTeX format and sourced directly as images from [latex.codecogs.com](https://latex.codecogs.com). This is achieve by encoding the formulas in a URL-encoded format and passing it as an argument to this website which then generates an `svg` image to display here. For example:
+
+```
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+</p>
+```
+
+The result:
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+</p>
+
+
+
+
+
 
 
 ### Remarks
