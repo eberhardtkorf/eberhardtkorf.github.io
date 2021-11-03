@@ -37,6 +37,6 @@ Images that are contained within journal entries are uploaded to GitHub as well 
 
 In order to make this website experience more sleek, a domain will have to be bought and configured to link to this website.
 
-###### Eberhardt Korf - 31 October 2021
+
 
 
