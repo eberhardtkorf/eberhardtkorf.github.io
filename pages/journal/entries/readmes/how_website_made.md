@@ -59,11 +59,6 @@ The result:
 </p>
 
 
-
-
-
-
-
 ### Remarks
 
 The next step in the development of this website will be to buy a custom domain which is configured to link to the this GitHub Pages site.
