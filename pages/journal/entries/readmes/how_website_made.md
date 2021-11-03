@@ -1,4 +1,4 @@
-# How This Website Works
+# How This Website Was Created
 
 ### Hosting
 
