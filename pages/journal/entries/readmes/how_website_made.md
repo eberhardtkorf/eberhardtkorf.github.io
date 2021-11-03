@@ -10,7 +10,7 @@ As you can probably see by the url, this website is hosted using GitHub Pages. T
 
 I have opted for a rather simple design which allows for easy reading and looks aesthetically pleasing as well. Some `.css` properties that helped me achieve this are listed below:
 
-* Background color is a subtle off white: #EEEEEE
+<!-- * Background color is a subtle off white: #EEEEEE -->
 * Text colour is slightly more grey: #444
 * A line height of 1.6 is used
 * A font size of 18 is used with the Sans-serif family
