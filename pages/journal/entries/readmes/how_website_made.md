@@ -2,15 +2,13 @@
 
 ### Hosting
 
-As you can probably see by the url, this website is hosted using GitHub Pages. The method only allows for static `.html` and `.js` files meaning every page has to be in a seperate file. This is in contrast to other frameworks such as `Flask` which allows for "template" pages that can be populated with content based on a specific request by the user. The static aspect has the effect that the number of files necessary to make this website possible will grow alongside the website. The contents of this website and the file structure it follows can be seen on my GitHub repository which is configured to be used for GitHub  pages:
+As you can probably see by the url, this website is hosted using GitHub Pages. This method only allows for static `.html` and `.js` files meaning every page has to be in a separate file. This is in contrast to other frameworks such as `Flask` which allows for "template" pages that can be populated with content based on a specific request by the user. The static aspect has the effect that the number of files necessary to make this website possible will grow alongside the website. The contents of this website and the file structure it follows can be seen on my GitHub repository which is configured to be used for GitHub  pages:
 
 [github.com/eberhardtkorf/eberhardtkorf.github.io](https://github.com/eberhardtkorf/eberhardtkorf.github.io)
 
 ### Styles
 
 I have opted for a rather simple design which allows for easy reading and looks aesthetically pleasing as well. Some `.css` properties that helped me achieve this are listed below:
-
-Attempts have been made in order to make the viewing of the content as soft on the eye as possible. A few `.css` things that allow this are listed below:
 
 * Background color is a subtle off white: #EEEEEE
 * Text colour is slightly more grey: #444
@@ -30,13 +28,15 @@ Code blocks in journal entries are rendered with `PrismJS` which comes standard 
 
 #### Images
 
-Images that are contained within journal entries are referenced straight from the GitHub repository in order to center them in the final rendered version. According to the markdown philosophy this is not allowed, but it had to be done in order to keep the aesthetic nature of the website. An example of this code that centers an image within a `.md` file is shown below.
+Images that are contained within journal entries are referenced straight from the GitHub repository in order to center them in the final rendered version. According to the markdown philosophy this is not allowed, but it had to be done in order to keep the aesthetic nature of the website. An example of the code that centers an image within a `.md` file is shown below.
 
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/image.png" />
 </p>
 ```
+
+The image:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/image.png" />
