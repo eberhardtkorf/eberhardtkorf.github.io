@@ -10,7 +10,7 @@ We would like a formula that shows what is the needed gain for an investment to 
 
 ### Formulation
 
-We can define the percentage drop as x and the percentage gain needed as y. If we imagine that we started with a $100 investment and our investment is now worth $80, meaning a 20% loss (x=0.2), we can set up a formula that will solve for y, the percentage our investment has to grow to return to $100.
+We can define the percentage drop as x and the percentage gain needed as y. If we imagine that we started with a $100 investment and our investment is now worth $80, meaning a 20% loss (x=0.2), we can set up a formula that will solve for y, the percentage our investment has to grow to return to $100:
 
 <p align="center">
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;100%20%3D%20%281%2By%29%281-x%29%2A100" title="equation" /><br>
@@ -23,15 +23,36 @@ We can see that y is solved for as 0.25, meaning we need a 25% gain on $80 to re
 
 ### General Formula
 
-The starting euqation above can be simplified if we don't substitute in the value of x.
+The starting euqation above can be simplified if we don't substitute in the value of x:
 
 <p align="center">
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;100%20%3D%20%281%2By%29%281-x%29%2A100" title="equation" /><br>
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;1%20%3D%20%281%2By%29%281-x%29" title="equation" /><br>
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;%5Cfrac%7B1%7D%7B1-x%7D%20%3D%20%281%2By%29" title="equation" /><br>
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;y%3D%5Cfrac%7B1%7D%7B1-x%7D-1" title="equation" /><br>
-
 </p>
+
+We see that we now have a general formula for this problem where y is our percentage drop and x is the percentage gain needed. This equation is an inverse rectangular gyperbola. This can be seen in the figure below:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/inverse_hyperbola.png" />
+</p>
+
+Overall, we can see that the relationship between the drop of an investment and the needed gain for it to return to a pre-loss value is not linear. In fact, as the drop (x) becomes larger, the needed gain (y) grows in a exponential fashion with a drop close of 100% needing an infinite gain. A table showing this grwoth can be seen below:
+
+| Drop (%) | Gain Needed (%) |
+|----------|-----------------|
+| 10       | 11.11           |
+| 20       | 25              |
+| 30       | 42.86           |
+| 40       | 66.67           |
+| 50       | 100             |
+| 60       | 150             |
+| 70       | 233.33          |
+| 80       | 400             |
+| 90       | 900             |
+
+
 
 
 
