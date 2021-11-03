@@ -19,11 +19,19 @@ We can define the percentage drop as x and the percentage gain needed as y. If w
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;y%20%3D%200.25" title="equation" />
 </p>
 
+We can see that y is solved for as 0.25, meaning we need a 25% gain on $80 to return to our original investment value of $100. If we test this, 1.25*80 is indeed equal to 100. This result is interesting because it means percentage wise our investment has to gain more than it has dropped in order tojust return to what is was worth originally.
 
+### General Formula
 
-
-<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
+The starting euqation above can be simplified if we don't substitute in the value of x.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/test.png" />
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;100%20%3D%20%281%2By%29%281-x%29%2A100" title="equation" /><br>
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;1%20%3D%20%281%2By%29%281-x%29" title="equation" /><br>
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;%5Cfrac%7B1%7D%7B1-x%7D%20%3D%20%281%2By%29" title="equation" /><br>
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;y%3D%5Cfrac%7B1%7D%7B1-x%7D-1" title="equation" /><br>
+
 </p>
+
+
+
