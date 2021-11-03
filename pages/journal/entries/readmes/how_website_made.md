@@ -18,7 +18,7 @@ Attempts have been made in order to make the viewing of the content as soft on t
 * A font size of 18 is used with the Sans-serif family
 * Content is justified to the center of the screen
 
-Feel free to browse my `.css` files to get a deeper understanding for how the style of website is achieved
+Feel free to browse my `.css` files to get a deeper understanding for how the style of this website is achieved
 
 ### Journal Entries
 
@@ -46,7 +46,7 @@ Images that are contained within journal entries are referenced straight from th
 
 ### Remarks
 
-The next step in the development of this website will be to buy a custom domain which is configured to link to the GitHub Pages site.
+The next step in the development of this website will be to buy a custom domain which is configured to link to the this GitHub Pages site.
 
 
 
