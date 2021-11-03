@@ -40,6 +40,7 @@ We see that we now have a general formula for this problem where y is our percen
 
 Overall, we can see that the relationship between the drop of an investment and the needed gain for it to return to a pre-loss value is not linear. In fact, as the drop (x) becomes larger, the needed gain (y) grows in a exponential fashion with a drop close of 100% needing an infinite gain. A table showing this grwoth can be seen below:
 
+<center>
 | Drop (%) | Gain Needed (%) |
 |----------|-----------------|
 | 10       | 11.11           |
@@ -51,7 +52,7 @@ Overall, we can see that the relationship between the drop of an investment and 
 | 70       | 233.33          |
 | 80       | 400             |
 | 90       | 900             |
-
+</center>
 
 
 
