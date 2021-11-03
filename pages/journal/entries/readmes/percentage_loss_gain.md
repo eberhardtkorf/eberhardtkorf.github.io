@@ -35,7 +35,7 @@ The starting euqation above can be simplified if we don't substitute in the valu
 We see that we now have a general formula for this problem where y is our percentage drop and x is the percentage gain needed. This equation is an inverse rectangular gyperbola. This can be seen in the figure below:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/inverse_hyperbola.png" />
+  <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/inverse_hyperbola.png" height=200/>
 </p>
 
 Overall, we can see that the relationship between the drop of an investment and the needed gain for it to return to a pre-loss value is not linear. In fact, as the drop (x) becomes larger, the needed gain (y) grows in a exponential fashion with a drop close of 100% needing an infinite gain. A table showing this grwoth can be seen below:
