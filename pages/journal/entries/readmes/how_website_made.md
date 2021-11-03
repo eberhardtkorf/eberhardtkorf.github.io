@@ -2,7 +2,7 @@
 
 ### Hosting
 
-As you can probably see by the url, this website is hosted using GitHub Pages. The method only allows for static `.html` and `.js` files meaning every page and dynamic has to be in a seperate file. This is in contrast to other frameworks such as `Flask` which allows for "template" pages that can be populated with content based on a specific request by the user. The static aspect has the effect that the number of files necessary to make this website possible will grow alongside the website. The contents of this website and the file structure it follows can be seen on my GitHub repository which is configured to be used for GitHub  pages:
+As you can probably see by the url, this website is hosted using GitHub Pages. The method only allows for static `.html` and `.js` files meaning every page has to be in a seperate file. This is in contrast to other frameworks such as `Flask` which allows for "template" pages that can be populated with content based on a specific request by the user. The static aspect has the effect that the number of files necessary to make this website possible will grow alongside the website. The contents of this website and the file structure it follows can be seen on my GitHub repository which is configured to be used for GitHub  pages:
 
 [github.com/eberhardtkorf/eberhardtkorf.github.io](https://github.com/eberhardtkorf/eberhardtkorf.github.io)
 
@@ -26,7 +26,7 @@ Journal entries are written in a markdown, `.md`, format and then rendered to vi
 
 #### Code
 
-Code blocks in journal etnries are rendered with `PrismJS` which comes standard with `zero-md`, however the `.css` files were also modified to use a different theme known as `Nord` and to decrease the font size of the code contained within these blocks.
+Code blocks in journal entries are rendered with `PrismJS` which comes standard with `zero-md`, however the `.css` files were also modified to use a different theme known as `Nord` and to decrease the font size of the code contained within these blocks.
 
 #### Images
 
