@@ -13,9 +13,9 @@ We would like a formula that shows what is the needed gain for an investment to 
 We can define the percentage drop as x and the percentage gain needed as y. If we imagine that we started with a $100 investment and our investment is now worth $80, meaning a 20% loss (x=0.2), we can set up a formula that will solve for y, the percentage our investment has to grow to return to $100.
 
 <p align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;100%20%3D%20%281%2By%29%281-x%29%2A100" title="equation" />
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;100%20%3D%20%281%2By%29%281-0.2%29%2A100" title="equation" />
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;%5Cfrac%7B100%7D%7B80%7D%20%3D%20%281%2By%29" title="equation" />
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;100%20%3D%20%281%2By%29%281-x%29%2A100" title="equation" /><br>
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;100%20%3D%20%281%2By%29%281-0.2%29%2A100" title="equation" /><br>
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;%5Cfrac%7B100%7D%7B80%7D%20%3D%20%281%2By%29" title="equation" /><br>
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;y%20%3D%200.25" title="equation" />
 </p>
 
