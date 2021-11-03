@@ -36,7 +36,7 @@ Images that are contained within journal entries are referenced straight from th
 </p>
 ```
 
-The image:
+The result:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eberhardtkorf/eberhardtkorf.github.io/main/pages/journal/entries/readmes/readme_images/image.png" />
