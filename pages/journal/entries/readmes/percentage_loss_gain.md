@@ -2,7 +2,7 @@
 
 ### Background
 
-Volatility in any investing market can cause a lot of fear and uncertainty regarding the underlying asset. The movement of prices is often measured on a percentage basis. For example if an asset that was worth $100 yesterday is worth $80 today we would say that the price and in turn the value of your investment dropped by 20% because you only have 80% of $100 left. Some might believe that in order for your investment to go back to the value it was when the asset was worth $100 is just the inverse of the amount it dropped, in this case being a gain of 20%. However, this is not the case and a general formula to solve this problem will be developed here.
+Volatility in any investing market can cause a lot of fear and uncertainty regarding the underlying asset. The movement of prices is often measured on a percentage basis. For example, if an asset that was worth $100 yesterday is worth $80 today, we would say that the price and in turn the value of your investment dropped by 20% because you only have 80% of $100 left. Some might believe that in order for your investment to go back to the value it was when the asset was worth $100 is just the inverse of the amount it dropped, in this case being a gain of 20%. This is not the case and a general formula to solve this problem will be developed here.
 
 ### Problem
 
