@@ -2,7 +2,7 @@
 
 This is a visual and animated appendix for my paper titled _Hybrid pose estimation of space debris with neural networks developed using photorealistic synthetic data_. This page contains videos of different pose estimation simulations from the paper. The full version of the results can be seen in the paper.
 
-The data used in this work can be obtained on [Kaggle](https://www.kaggle.com/datasets/eberhardtkorf/synthetic-cubesat).
+The data used in this work can be obtained on <a href="https://www.kaggle.com/datasets/eberhardtkorf/synthetic-cubesat" target="_blank">Kaggle</a></td>.
 
 ### Direct-to-Filter Sequence A
 
