@@ -16,7 +16,7 @@ fgfgfgfgfg
 
 
 <p align="center">
-  <video src="videos/dtf_seq1.mp4" controls="controls">
+  <video width="612" height="512" src="videos/dtf_seq1.mp4" controls="controls">
 </p>
 
 <p align="center">
@@ -25,6 +25,6 @@ fgfgfgfgfg
 
 sdsdsdsd
 
-2
+3
 
 
