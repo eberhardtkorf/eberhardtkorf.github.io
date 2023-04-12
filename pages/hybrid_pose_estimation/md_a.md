@@ -1,30 +1,41 @@
 # Hybrid Pose Estimation
 
-sdsdsdsdggf
-gfgf
+This is a visual and animated appendix for my paper titled _Hybrid pose estimation of space debris with neural networks developed using photorealistic synthetic data_. This page contains videos of different pose estimation simulations from the paper. The full version of the results can be seen in the paper.
 
-fgfgfg
+The data used in this work can be obtained on [Kaggle](https://www.kaggle.com/datasets/eberhardtkorf/synthetic-cubesat).
 
-
-fgfgfgfgfg
-
-## Centered Image
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls">
-</p>
-
-
+### Direct-to-Filter Sequence A
 
 <p align="center">
   <video width="100%" height="auto" src="videos/dtf_seq1.mp4" controls="controls">
 </p>
 
+### Perspective-n-Point Sequence A
+
 <p align="center">
-<iframe width="612" height="512" src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1">
+  <video width="100%" height="auto" src="videos/dtf_seq1.mp4" controls="controls">
 </p>
 
-sdsdsdsd
+### Direct-to-Filter Sequence B
 
-3
+<p align="center">
+  <video width="100%" height="auto" src="videos/dtf_seq1.mp4" controls="controls">
+</p>
 
+### Perspective-n-Point Sequence B
 
+<p align="center">
+  <video width="100%" height="auto" src="videos/dtf_seq1.mp4" controls="controls">
+</p>
+
+### Direct-to-Filter Sequence C
+
+<p align="center">
+  <video width="100%" height="auto" src="videos/dtf_seq1.mp4" controls="controls">
+</p>
+
+### Perspective-n-Point Sequence C
+
+<p align="center">
+  <video width="100%" height="auto" src="videos/dtf_seq1.mp4" controls="controls">
+</p>
