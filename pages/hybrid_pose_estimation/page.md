@@ -1,6 +1,6 @@
 # Hybrid Pose Estimation
 
-This is a visual and animated appendix for my paper titled _Hybrid pose estimation of space debris with neural networks developed using photorealistic synthetic data_. 
+This is a visual and animated appendix for the paper titled _Hybrid pose estimation of space debris with neural networks developed using photorealistic synthetic data_ which can be seen at _(pending published proceedings)_.
 
 This page contains videos of different pose estimation simulations. An analysis of the simulation can be found in the paper.
 
