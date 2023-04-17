@@ -6,37 +6,37 @@ The videos which can be seen here at the results of different pose estimation si
 
 The data used in this work can be obtained on <a href="https://www.kaggle.com/datasets/eberhardtkorf/synthetic-cubesat" target="_blank">Kaggle</a></td>.
 
-### Perspective-n-Point Sequence A
+### Perspective-n-Point (PnP) Sequence A
 
 <p align="center">
   <video width="100%" height="auto" src="assets/pnp_seq_a.mp4" controls="controls">
 </p>
 
-### Direct-to-Filter Sequence A
+### Direct-to-Filter (DtF) Sequence A
 
 <p align="center">
   <video width="100%" height="auto" src="assets/dtf_seq_a.mp4" controls="controls">
 </p>
 
-### Perspective-n-Point Sequence B
+### Perspective-n-Point (PnP) Sequence B
 
 <p align="center">
   <video width="100%" height="auto" src="assets/pnp_seq_b.mp4" controls="controls">
 </p>
 
-### Direct-to-Filter Sequence B
+### Direct-to-Filter (DtF) Sequence B
 
 <p align="center">
   <video width="100%" height="auto" src="assets/dtf_seq_b.mp4" controls="controls">
 </p>
 
-### Perspective-n-Point Sequence C
+### Perspective-n-Point (PnP) Sequence C
 
 <p align="center">
   <video width="100%" height="auto" src="assets/pnp_seq_c.mp4" controls="controls">
 </p>
 
-### Direct-to-Filter Sequence C
+### Direct-to-Filter (DtF) Sequence C
 
 <p align="center">
   <video width="100%" height="auto" src="assets/dtf_seq_c.mp4" controls="controls">
